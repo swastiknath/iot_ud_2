@@ -63,7 +63,8 @@ To be able to detect chip flaws without slowing down the packaging process, the 
 
 While Naomi Semiconductors has plenty of revenue to install a quality system, this is still a significant investment and they would ideally like it to last for at least 5-10 years.
 
-![retail_image](images\manufacture.gif)
+![retail_image](https://github.com/swastiknath/iot_ud_2/blob/master/images/manufacture.gif)
+
 ---
 
 ## Scenario 2: Retail Sector
@@ -82,7 +83,7 @@ Most of the store's checkout counters already have a modern computer, each of wh
 
 Mr. Lin employs close to 300 employees, including staff that work in transportation, on the store floor, and at the checkout counter. Although the store's annual sales are USD 7 million in food alone, the net profit is only about 1.1% of this. Mr. Lin also believes in giving fair employment and good wages. He pays his staff with proper salaries, along with substantial bonuses twice a year. As a result, Mr. Lin does not have much money to invest in additional hardware, and also would like to save as much as possible on his electric bill.
 
-![retail_image](images\retail.gif)
+![retail_image](https://github.com/swastiknath/iot_ud_2/blob/master/images/retail.gif)
 
 ---
 ## Scenario 3: Transportation
@@ -97,6 +98,7 @@ In peak hours they currently have over 15 people on average in a single queue ou
 
 They monitor the entire situation with 7 CCTV cameras on the platform. These are connected to closed All-In-One PCs that are located in a nearby security booth. The CPUs in these machines are currently being used to process and view CCTV footage for security purposes and no significant additional processing power is available to run inference. Ms. Leah's budget allows for a maximum of USD 300 per machine, and she would like to save as much as possible both on hardware and future power requirements.
 
-![transport_infer](images\transport.gif)
+![transport_infer](https://github.com/swastiknath/iot_ud_2/blob/master/images/transport.gif)
+
 ---
 

@@ -1,3 +1,5 @@
+![](https://opencv.org/wp-content/uploads/2019/05/openvino-logo.png)
+
 # SMART QUEING SYSTEM
 INTEL(R) DISTRIBUTION OF OPENVINO TOOLKIT 2020.R2
 #### INTEL(R) EDGE AI FOR IOT DEVELOPERS NANODEGREE

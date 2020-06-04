@@ -9,7 +9,7 @@ INTEL(R) DISTRIBUTION OF OPENVINO TOOLKIT 2020.R2
 | SWASTIK NATH                      |                |
 | Documentation    | [Follow Here](https://swastiknathgroup.com/iot_ud_2/)|
  | Correspondance Email |  [Draft Your Mail](mailto:swastiknath@outlook.com) |
-|Hardware Proposal Report | [Read Here] ()
+|Hardware Proposal Report | [Read Here] (https://github.com/swastiknath/iot_ud_2/blob/master/Hardware%20Proposals.pdf)
 
 ---
 ## High Level Overview of the Task:
